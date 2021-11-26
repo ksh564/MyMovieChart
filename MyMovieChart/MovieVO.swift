@@ -7,4 +7,5 @@ class MovieVO {
     var detail: String?
     var opendate: String?
     var rating: Double?
+  
 }
